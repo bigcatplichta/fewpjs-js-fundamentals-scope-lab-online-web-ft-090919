@@ -1,4 +1,6 @@
-function myAnimal(animal) {
+
+
+function myAnimal() {
   return animal
 }
 
